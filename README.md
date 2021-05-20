@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Francjatomarka
+- 👀 I’m interested in Lua & c++
+- 🌱 I’m currently learning Lua & c++
+- 📫 How to reach me on my discord : Francja#9061
