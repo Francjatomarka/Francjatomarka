@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Lua & c++
 - 📫 How to reach me on my discord : Francja#9061
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francjatomarka" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Francjatomarka&show_icons=true&theme=radical)" />
 </a>
 
