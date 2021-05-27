@@ -1,15 +1,14 @@
 ## I'm a Developer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Memory Hacking
-- 👯 I’m looking 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm Francjatomarka 16 years old developer
+- 🌱 I’m currently learning Memory Hacking & C++
+- 👯 I'm currently in 77APO Dev Team
+- ⚡ Fun fact: no fun fact
 
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francjatomarka&show_icons=true&theme=material-palenight)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francjatomarka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
