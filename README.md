@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Francja Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />][Discord]
-[<img align="left" alt="Francja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Francja Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />]
+[<img align="left" alt="Francja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCpX7FDO3_ov88jfHa-OtSVg]
 
 <br />
 
