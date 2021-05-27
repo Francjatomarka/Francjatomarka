@@ -8,12 +8,13 @@
 
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francjatomarka&show_icons=true&theme=material-palenight)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francjatomarka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
-[<img align="left" alt="Francja Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />]
-[<img align="left" alt="Francja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCpX7FDO3_ov88jfHa-OtSVg]
+[<img align="left" alt="Francja Discord" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />[Discord]
+[<img align="left" alt="Francja | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[youtube]
 
 <br />
 
@@ -24,3 +25,5 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[Discord]: Francja#9061
+[youtube]: https://www.youtube.com/channel/UCpX7FDO3_ov88jfHa-OtSVg
