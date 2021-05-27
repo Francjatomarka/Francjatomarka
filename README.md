@@ -30,5 +30,3 @@
 
 <br />
 <br />
-[Discord]: https://codeSTACKr.com
-[youtube]: https://www.youtube.com/channel/UCpX7FDO3_ov88jfHa-OtSVg
