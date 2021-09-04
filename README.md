@@ -7,6 +7,7 @@
 
 ## My Stats
 ![](https://komarev.com/ghpvc/?username=Francjatomarka&style=flat-square&color=blueviolet)
+<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francjatomarka&show_icons=true&theme=material-palenight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francjatomarka)](https://github.com/anuraghazra/github-readme-stats)
