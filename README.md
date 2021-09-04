@@ -6,9 +6,9 @@
 - ⚡ Fun fact: no fun fact
 
 ## My Stats
+![](https://komarev.com/ghpvc/?username=Francjatomarka&style=flat-square&color=blueviolet)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francjatomarka&show_icons=true&theme=material-palenight)
 <br />
-![](https://komarev.com/ghpvc/?username=Francjatomarka&style=flat-square&color=blueviolet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francjatomarka)](https://github.com/anuraghazra/github-readme-stats)
 
 
