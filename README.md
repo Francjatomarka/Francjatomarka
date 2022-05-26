@@ -1,8 +1,8 @@
 ## I'm a Developer
 
-- 🔭 I'm Francjatomarka 16 years old developer
+- 🔭 I'm Francjatomarka 17 years old developer
 - 🌱 I’m currently learning Memory Hacking & C++
-- 👯 I'm currently in 77APO Dev Team
+- 👯 I'm currently in 77APO & 77RP Dev Team
 - ⚡ Fun fact: no fun fact
 
 ## My Stats
