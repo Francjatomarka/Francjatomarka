@@ -1,14 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Francja</h2>
 
 ###
 
-<img align="right" height="150" src="https://shared.fastly.steamstatic.com/community_assets/images/items/1953540/0150fcb14b21005b71176726832666f8740e512d.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:Francjatomarka?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<img align="right" height="160" src="https://shared.fastly.steamstatic.com/community_assets/images/items/1953540/0150fcb14b21005b71176726832666f8740e512d.gif"  />
 
 ###
 
