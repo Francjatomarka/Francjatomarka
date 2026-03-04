@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Francja</h2>
 
-###
-
-<img align="right" height="160" src="https://shared.fastly.steamstatic.com/community_assets/images/items/1953540/0150fcb14b21005b71176726832666f8740e512d.gif"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
